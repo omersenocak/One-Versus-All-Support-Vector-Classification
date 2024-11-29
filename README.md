@@ -55,6 +55,9 @@ The dataset consists of 5,000 grayscale images of clothing, each with a resoluti
 | **Shirt**          | 100     | 32    | 69   | 541   | 16  |
 | **Bag**            | 12      | 2     | 6    | 15    | 757 |
 
+<img width="661" alt="Results" src="https://github.com/user-attachments/assets/5f399bc8-20a9-4b66-83a3-6641b63bbc94">
+
+
 ### Accuracy
 The classification accuracy was plotted as a function of `C` for both training and test sets, revealing the optimal trade-off for the regularization parameter.
 
