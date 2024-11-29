@@ -14,6 +14,8 @@ The dataset consists of 5,000 grayscale images of clothing, each with a resoluti
   - `images.csv`: Image data (features).
   - `labels.csv`: Image labels (1: T-shirt, 2: Dress, 3: Coat, 4: Shirt, 5: Bag).
 
+<img width="471" alt="Images_sample" src="https://github.com/user-attachments/assets/c5c93c44-d70d-4fae-bd85-e45c96e29a23">
+
 ---
 
 ## Methodology
